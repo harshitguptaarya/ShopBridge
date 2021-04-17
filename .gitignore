@@ -1,0 +1,47 @@
+
+#Ignore thumbnails created by Windows
+Thumbs.db
+#Ignore files built by Visual Studio
+*.obj
+*.exe
+*.pdb
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.pdb
+*.dll
+*.log
+[Bb]in
+[Dd]ebug*/
+*.lib
+*.sbr
+obj/
+[Rr]elease*/
+_ReSharper*/
+[Tt]est[Rr]esult*
+.vs/
+#Nuget packages folder
+packages/
+/SourceCode/MCNIDev/MCNIDevTest/bin/*
+SourceCode/MCNIDev/DBModel/bin/*
+SourceCode/MCNIDev/DBModel/obj/*
+SourceCode/MCNIDev/MCNIDevTest/obj/*
+SourceCode/MCNIDev/Utilities/obj/*
+SourceCode/MCNIDev/Utilities/bin/*
+SourceCode/MCNIDev/MCNIDev/bin/*
+SourceCode/MCNIDev/MCNIDev/obj/*
+SourceCode/MCNIDev/MCNIDev/UploadedFiles/*
+SourceCode/MCNIWebService/WebApplication1/QBLogs/*
+/SourceCode/MCNIDev/DBModel/bin/Debug/DBModel.dll
+/SourceCode/MCNIDev/.vs/MCNIDev/v15/.suo
+/SourceCode/MCNIDev/.vs/MCNIDev/v15/.suo
